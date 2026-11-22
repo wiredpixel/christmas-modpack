@@ -60,11 +60,6 @@ hash = "ed1b9c3018ec4e6afbaafd1544138a4f11bc211683ecf9c5d28b42553f60e8c7"
 metafile = true
 
 [[files]]
-file = "mods/everlasting-winter.pw.toml"
-hash = "93181a35c9d0b4f45a3e13ab696bd2765f823dfabd551474d79eeea9fe23c6fa"
-metafile = true
-
-[[files]]
 file = "mods/festive-delight.pw.toml"
 hash = "14c243b7de6fd660549d9417293ea34ed1ef49d322d9a9e4de7e9f8dd344f397"
 metafile = true
@@ -72,6 +67,11 @@ metafile = true
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
 hash = "981e52e1c4a97465921342f556cced335c6c75cdb050e9fc528d52cf4ff88b79"
+metafile = true
+
+[[files]]
+file = "mods/glitchcore.pw.toml"
+hash = "e53646f88aeb6bd54c38db50da972abdac91e83c145a8f974107b0ca103b15bc"
 metafile = true
 
 [[files]]
@@ -162,6 +162,11 @@ metafile = true
 [[files]]
 file = "mods/quark.pw.toml"
 hash = "d22d14965fb93e68529f7b0861c11179b866e5c83a1cd5d394a8bf813653446b"
+metafile = true
+
+[[files]]
+file = "mods/serene-seasons.pw.toml"
+hash = "bcaac076ac981463ee57b7469430e5fb7ff99f8e2387681e7ac737ca5d22596b"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Everlasting Winter - Eternal Snow"
+filename = "EverlastingWinter-1.1.1-NeoForge-mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9fiQr9Gs/versions/zVwplLbi/EverlastingWinter-1.1.1-NeoForge-mc1.21.1.jar"
+hash-format = "sha512"
+hash = "3185e26237b6643fe7e3d8523b6cebea716130011f6b1294aadefca0d1655c17f8202460b31930db90616fccf70f40c81f26d724d130c9a831b6310c832cf150"
+
+[update]
+[update.modrinth]
+mod-id = "9fiQr9Gs"
+version = "zVwplLbi"

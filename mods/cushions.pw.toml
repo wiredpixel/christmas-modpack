@@ -1,0 +1,13 @@
+name = "Sittable Cushions"
+filename = "xercacushion-neoforge-1.21.1-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ARQMEkyi/versions/70cKTAMa/xercacushion-neoforge-1.21.1-1.0.0.jar"
+hash-format = "sha512"
+hash = "d24d40be7f95896c41fd071e921724d2621db3abe9187bf19230c4b36d74f7bb05208109cc60b4273f177e35d85a6256ec77a709ed0d8488c1e0a65d772931da"
+
+[update]
+[update.modrinth]
+mod-id = "ARQMEkyi"
+version = "70cKTAMa"

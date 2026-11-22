@@ -1,0 +1,13 @@
+name = "Christmas Modpack"
+author = "Summerly57"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "d319cb91ff5e9e7fe5097b27de3c1a1c74bb827aeab805b5d980b0402b35333a"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.267"

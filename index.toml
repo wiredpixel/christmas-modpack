@@ -20,6 +20,11 @@ hash = "46b6505043ebd859586843ec8ff4702f7ef4ac247f8adcfa817eaf1e154d4fba"
 metafile = true
 
 [[files]]
+file = "mods/cold-sweat.pw.toml"
+hash = "9e1ebf962e6178fc60a416fd43d8b8dc5368fecf0127d93c73346fd73d0919a7"
+metafile = true
+
+[[files]]
 file = "mods/connector.pw.toml"
 hash = "a38d72ca403e9064338be6e0cf69532768b0c1aba8f88703a8ce74c2734da522"
 metafile = true
